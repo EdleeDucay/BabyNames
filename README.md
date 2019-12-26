@@ -1,2 +1,2 @@
 # BabyNames
-A program that reads information the baby names database
+A program that reads information on a baby names database
