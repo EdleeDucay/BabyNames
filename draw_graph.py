@@ -1,6 +1,5 @@
 '''
-Helper functions for graph creation
-Command 9
+Functions for graph creation
 
 
 '''
